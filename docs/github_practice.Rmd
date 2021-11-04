@@ -1,0 +1,15 @@
+---
+title: 'github_practice'
+subtitle: ''
+author: ''
+date: 'Last update: `r Sys.time()`'
+output: html_document
+---
+
+```{r echo=FALSE}
+library(knitr)
+source('../scripts/github_practice.R')
+```
+
+```{r, 'load', echo=FALSE}
+```
